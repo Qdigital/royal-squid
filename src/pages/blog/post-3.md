@@ -7,6 +7,7 @@ categories:
 tags:
   - Stackbit
   - JAMstack
+  - lorem-ipsum
 image: images/3.png
 image_alt: Post 3 placeholder image
 excerpt: >-
